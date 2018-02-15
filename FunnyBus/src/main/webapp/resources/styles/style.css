@@ -1,0 +1,127 @@
+header {
+    padding: 15px 0;
+    background-color: #333;
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-bottom: 130px !important;
+}
+
+header ul {
+    text-align: center;
+}
+.registration{
+    margin-left: 200px;
+}
+
+ ul li {
+    display: inline-block;
+    padding-right: 15px;
+    font-size: 16px;
+    color: #fff;
+    line-height:normal;    
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+ul li a:hover {
+    color: #2a5885;
+    text-decoration: none;
+}
+ 
+
+.logo {
+    display: block;
+    margin-top: 10px; 
+    margin-left: -5px;
+}
+
+.logo1 {
+    display: block;
+    width: 80px;
+    height: 50px;
+}
+
+.mrg-top-20 {
+    margin-top: 20px;
+}
+.navigationMenu li {
+	padding: 0px;
+    font-size: 14px;
+}
+.slideshow {
+    margin-top: 40px;
+}
+
+.slideshow i {
+    top: 50%;
+    position: absolute;
+    font-size: 33px;
+}
+html { 
+ position:relative; 
+ min-height:100%;
+}
+footer {
+    position: absolute;
+	bottom: 0;
+	width: 100%;
+    background: #333;
+    height: 90px;
+}
+
+footer img { 
+    margin: 15px;
+    width: 150px;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    margin-top: -70px;
+}
+
+
+footer p span {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.copyright {
+    font-size: 13px;
+}
+
+.top {
+    margin-top: 15px;
+}
+.mainMenu{
+    margin-bottom: -20px;
+}
+
+
+.nazva {
+    font-size: 25px;
+    margin-top: 5px;
+    color: #fff;
+    margin-left: -15px;
+}
+.dropdown:hover > .dropdown-menu { 
+    display: block; 
+} 
+.dropdown:hover {
+	background-color: #e7e7e7;
+}
+
+textarea {
+    width: 100%; /* Ширина поля в процентах */
+    height: 150px; /* Высота поля в пикселах */
+    resize: none; /* Запрещаем изменять размер */
+   } 
